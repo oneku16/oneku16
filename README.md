@@ -2,6 +2,6 @@
 - 👀 I’m interested in Competitive Programming, backend and chess :)
 - 🌱 I’m currently learning bases of CS almost everything
 - 💞️ I’m looking to collaborate on CP
-- 📫 How to reach me telegram: @oneku16, for mails: eku.ulanov@yandex.com
+- 📫 How to reach me telegram: @oneku16, for mails: eku.ulanov@gmail.com
 
 new undates: -> soon!
