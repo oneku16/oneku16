@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @oneku16
-- 👀 I’m interested in Competitive Programming, backend, Data Science/Analytics and chess (https://lichess.org/@/oneku)
-- 🌱 I’m currently learning Data Science/Analytics and improving my math skills
+- 👋 Hi, I’m Elnazar
+- 👀 I’m interested in Competitive Programming, backend, Data Analytics and chess (https://lichess.org/@/oneku)
+- 🌱 I’m currently learning back-end and software engineering
 - 💞️ I’m looking to collaborate on Competitive Programming
-- 📫 How to reach me telegram: @oneku16, for mails: eku.ulanov@gmail.com
-
-new undates: -> soon!
+- 📫 How to reach me telegram: @oneku16, for mails: elnazar.ulanbekuulu@outlook.com
