@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Elnazar
-- 👀 I’m interested in Competitive Programming, backend, Data Analytics and chess (https://lichess.org/@/oneku)
-- 🌱 I’m currently learning back-end and software engineering
-- 💞️ I’m looking to collaborate on Competitive Programming
+- 👀 I’m SWE, I do backend staff using python, orable, postgresql, redis and ect.
+- 🌱 I’m currently doing ride sharing app.
 - 📫 How to reach me telegram: @oneku16, for mails: elnazar.ulanbekuulu@outlook.com
