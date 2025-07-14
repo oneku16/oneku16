@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Elnazar
-- 👀 I’m SWE, I do backend staff using python, orable, postgresql, redis and ect.
+- 👀 I’m SWE, I do backend staff using python, postgresql, redis and ect.
 - 🌱 I’m currently doing ride sharing app.
 - 📫 How to reach me telegram: @oneku16, for mails: elnazar.ulanbekuulu@outlook.com
